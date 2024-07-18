@@ -132,7 +132,6 @@ footer address {
    margin-top: 30px;
    font-style: normal;
 }
-
 /* ===============================
    Mobile Styles: 0px to 640px 
    ===============================
@@ -187,3 +186,4 @@ footer address {
       flex: 0 1 auto;
    }
 }
+
